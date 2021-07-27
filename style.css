@@ -28,12 +28,17 @@ a:hover {
 }
 
 .paragraph_main {
-    font-size: 1.5em;
+    font-size: 1.6em;
     padding-bottom: 2em;
+    width: 60%;
+    margin: 0 auto;
 }
 
 .paragraph_main2 {
     font-size: 1.5em;
+    padding-top: 1em;
+    width: 80%;
+    margin: 0 auto;
 }
 
 .bloc {
