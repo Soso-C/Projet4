@@ -27,19 +27,48 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+
+/* ------------------------------------------------------   Mes Modfis   --------------------------------------------------*/
+
 .paragraph_main {
     font-size: 1.6em;
-    padding-bottom: 2em;
+    padding-bottom: 3em;
     width: 60%;
     margin: 0 auto;
 }
 
 .paragraph_main2 {
-    font-size: 1.5em;
+    font-size: 1.45em;
     padding-top: 1em;
     width: 80%;
     margin: 0 auto;
 }
+
+.test {
+    font-size: 1.1em;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.paragraph_center {
+    font-size: 1.1em;
+}
+
+.social_fbloc {
+    text-align: center;
+    margin: 2em auto;
+}
+
+.title_fbloc {
+    margin: 1em 0;
+}
+
+.under_footer {
+    margin: 2em 0;
+}
+
+
+/* ------------------------------------------------------   Mes Modfis END  --------------------------------------------------*/
 
 .bloc {
     width: 100%;
