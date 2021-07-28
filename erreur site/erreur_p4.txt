@@ -6,12 +6,18 @@ Ajout d'un titre du site index et contact.
 ligne 84 : remplace image par un h2 - ligne 687 : suppression de la regle sur les p.
 ligne 105: erreur
 2eme paragraphe qui était une image transformé en p.
-Ajout des balise meta Header/Section / Main / Footer
+Ajout des balise meta Header/Section / Main / Footer page 1 et 2
 ajout de nouvelle div pour footer et socials
 
 background attachement : fixed en off
 -- media querries min-device and max-device --
 del ligne 890-891 et 901-902
+probleme de lien de redirection script/css
+minify css/js
+minify img et conversion to jpg et resize.
+refonte responsive
+ajout de balise pour formulaire (social)
+
 
 
 			
