@@ -70,6 +70,7 @@ textarea {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 2em 0;
 }
 
 p {
@@ -86,7 +87,7 @@ p {
 }
 
 .under_form {
-    padding-top: 1.5em;
+    padding-top: 2em;
 }
 
 .under_form p {
