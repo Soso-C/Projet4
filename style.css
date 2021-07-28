@@ -62,37 +62,6 @@ a:hover {
     margin: 2em 0;
 }
 
-#top_page {
-    display: grid;
-    width: 100%;
-    grid-template-columns: 70% 10% 10% 10%;
-    margin: 0.8em 1em;
-    font-size: 1.2em;
-}
-
-#top_page a {
-    text-decoration: none;
-}
-
-#logo {
-    grid-column: 1;
-}
-
-#accueil {
-    grid-column: 2;
-    margin: auto;
-}
-
-#realisations {
-    grid-column: 3;
-    margin: auto;
-}
-
-#contact {
-    grid-column: 4;
-    margin: auto;
-}
-
 
 /* ------------------------------------------------------   Mes Modfis END  --------------------------------------------------*/
 
