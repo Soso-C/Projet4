@@ -76,6 +76,10 @@ p {
     margin: 0 0;
 }
 
+.title_p2 {
+    padding-bottom: 0.5em;
+}
+
 .title_p2,
 .subtitle_p2 {
     font-size: 1.3em;
