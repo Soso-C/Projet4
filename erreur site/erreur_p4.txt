@@ -16,6 +16,7 @@ probleme de lien de redirection script/css
 minify css/js
 minify img et conversion to jpg et resize.
 refonte responsive
+ajout d'une description dans la baslise description
 ajout de balise pour formulaire (social)
 
 
