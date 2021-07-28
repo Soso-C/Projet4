@@ -1,6 +1,6 @@
 Ajout d'un titre du site index et contact.
 1: supression des balise style dans le html.
-2 : del des balises keywords.
+2 : refonte balise keywords
 3 : ajout d'une balise li + d'une ancre a Nos réalisations.
 4 : Page2 > Contact
 ligne 84 : remplace image par un h2 - ligne 687 : suppression de la regle sur les p.
