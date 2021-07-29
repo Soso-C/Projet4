@@ -84,21 +84,19 @@
                         <form id="form_1" novalidate success-msg="Your message has been sent." fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
                             <div class="form-group">
                                 <label for="name">Nom</label>
-                                <input id="name" class="form-control" required />
+                                <input id="name" class="form-control" aria-required="true" aria-labelledby="name" />
                             </div>
                             <div class="form-group">
                                 <label for="email">Email</label>
-                                <input name="user_email" id="email" class="form-control" type="email" required />
+                                <input name="user_email" id="email" class="form-control" type="email" aria-required="true" aria-labelledby="email" />
                             </div>
                             <div class="form-group">
                                 <label for="name">Comment nous avez-vous connu ?</label>
-                                <input class="form-control" type="message" required id="input_504" />
+                                <input class="form-control" type="message" id="input_504" aria-required="true" aria-labelledby="input_504" />
                             </div>
                             <div class="form-group">
-                                <label>
-							        Brief de votre projet (Ajoutez autant de détails que nécessaire)
-						        </label>
-                                <textarea name="user_msg" id="message" class="form-control" rows="4" cols="50" required></textarea>
+                                <label>Brief de votre projet (Ajoutez autant de détails que nécessaire)</label>
+                                <textarea name="user_msg" id="message" class="form-control" rows="4" cols="50" aria-required="true" aria-labelledby="message"></textarea>
                             </div>
                             <button class="bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" type="submit">
 						        Envoyer
