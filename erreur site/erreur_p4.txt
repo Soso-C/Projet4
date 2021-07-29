@@ -21,4 +21,20 @@ ajout de balise pour formulaire (social)
 
 
 
+////////////////************** TABLEAU AUDIT //////////////////*****************
+
+
+1 : SEO  /  BLACK HAT
+2 : SEO / BALISE META CANONIQUE
+3 : PERF / MINIFY CSS JS
+4 : PERF / COMPRESS IMAGE et resize
+5 : PERF / GZIP A UTILISER
+6 : ACCES / CONTRAST 
+7 : ACCES / Ajout de balise ARIA pour FORM / !
+8 : PERF / Enlever les image paragraph par des texte pour meilleur opti et responsive
+9 : SEO / AJOUT DE BALISE DESCRIPTION 
+10: SEO / DEL LIENS ANNUAIRES INUTILES. 
+
+
+
 			

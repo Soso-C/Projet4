@@ -99,6 +99,7 @@ p {
 
 .under_form p {
     font-weight: bold;
+    color: black;
 }
 
 .soc_bloc {
@@ -136,6 +137,10 @@ p {
 }
 
 .fa::before {
+    color: black;
+}
+
+.text-center {
     color: black;
 }
 
