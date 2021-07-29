@@ -144,6 +144,16 @@ p {
     color: black;
 }
 
+.footer_block {
+    padding-bottom: 3em;
+    padding-top: 1.5em;
+}
+
+ul,
+ol {
+    padding: 0;
+}
+
 
 /* ------------------------------------------------------   Mes Modfis END  --------------------------------------------------*/
 
@@ -779,7 +789,7 @@ label,
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 2.5em;
 }
 
 .hero-bloc-text-sub {
