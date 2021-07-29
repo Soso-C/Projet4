@@ -88,7 +88,8 @@ p {
 
 .title_p2,
 .subtitle_p2 {
-    font-size: 1.3em;
+    font-size: 1.2em;
+    color: black;
 }
 
 .under_form {
@@ -117,6 +118,10 @@ p {
     flex-direction: column;
     align-items: center;
     color: black;
+}
+
+.partenaire p {
+    padding-bottom: 1em;
 }
 
 .partenaire li {
@@ -789,7 +794,7 @@ label,
 } */
 
 .tight-width-whitespace {
-    max-width: 600px;
+    /* max-width: 600px; */
     margin: auto auto auto auto;
 }
 
@@ -1154,6 +1159,9 @@ h4 {
     }
     .paragraph_main2 {
         font-size: 1.2em;
+    }
+    .title_footer {
+        font-size: 2.2em;
     }
 }
 
