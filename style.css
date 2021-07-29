@@ -54,8 +54,13 @@ a:hover {
     margin: 2em auto;
 }
 
+.social p {
+    color: black;
+}
+
 .title_fbloc {
     margin: 1em 0;
+    color: black;
 }
 
 .under_footer {
@@ -99,6 +104,35 @@ p {
     justify-content: center;
 }
 
+.lightbox-caption {
+    text-align: center;
+}
+
+.title_footer {
+    font-size: 3em;
+}
+
+.partenaire {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+}
+
+.partenaire li {
+    color: black;
+}
+
+.bloc_parte li a {
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+
+.fa::before {
+    color: black;
+}
+
 
 /* ------------------------------------------------------   Mes Modfis END  --------------------------------------------------*/
 
@@ -131,11 +165,7 @@ p {
     padding: 20px 50px;
 }
 
-
-/* Inutile */
-
-
-/* .bg-center,
+.bg-center,
 .bg-l-edge,
 .bg-r-edge,
 .bg-t-edge,
@@ -149,7 +179,7 @@ p {
     -moz-background-size: auto!important;
     -o-background-size: auto!important;
     background-size: auto!important;
-} */
+}
 
 .bg-repeat {
     background: repeat;
@@ -169,11 +199,10 @@ p {
     right: 0;
 }
 
-
-/* .texture-paper::before {
+.texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
-} */
+}
 
 .b-parallax {
     /* background-attachment: fixed; */
@@ -725,10 +754,8 @@ h3,
 h4,
 h5,
 h6,
-p,
 label,
-.btn,
-a {
+.btn {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
@@ -860,8 +887,8 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #f3976c;
+    color: black !important;
 }
 
 .btn-atomic-tangerine:hover {
