@@ -1,6 +1,5 @@
 Ajout d'un titre du site index et contact.
-1: supression des balise style dans le html.
-2 : refonte balise keywords
+1: supression des balise style dans le html et keywords.
 3 : ajout d'une balise li + d'une ancre a Nos réalisations.
 4 : Page2 > Contact
 ligne 84 : remplace image par un h2 - ligne 687 : suppression de la regle sur les p.
@@ -25,16 +24,18 @@ ajout de balise pour formulaire (social)
 
 
 1 : SEO  /  BLACK HAT
-2 : SEO / BALISE META CANONIQUE
+2 : SEO / BALISE META ET CANONIQUE
 3 : PERF / MINIFY CSS JS
 4 : PERF / COMPRESS IMAGE et resize
 5 : PERF / GZIP A UTILISER
 6 : ACCES / CONTRAST 
-7 : ACCES / Ajout de balise ARIA pour FORM / !
+7 : ACCES / Ajout de balise ARIA pour FORM et personne malvoyante / !
 8 : PERF / Enlever les image paragraph par des texte pour meilleur opti et responsive
 9 : SEO / AJOUT DE BALISE DESCRIPTION 
 10: SEO / DEL LIENS ANNUAIRES INUTILES. 
-
+11: Supression Balise keywords inutile depuis 2012.
+12 / retouche des paragraph / pour éviter les répétitions
+13 : PERF /  balises script fin de page pour meilleur chargement
 
 
 			
