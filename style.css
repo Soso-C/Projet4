@@ -154,6 +154,12 @@ ol {
     padding: 0;
 }
 
+.title_fbloc {
+    display: flex;
+    justify-content: center;
+    font-size: 1.3em;
+}
+
 
 /* ------------------------------------------------------   Mes Modfis END  --------------------------------------------------*/
 
