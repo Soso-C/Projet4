@@ -46,7 +46,7 @@ a:hover {
 }
 
 .paragraph_center {
-    font-size: 1.1em;
+    font-size: 1.2em;
 }
 
 .social_fbloc {
@@ -95,6 +95,10 @@ p {
 
 .under_form {
     padding-top: 2em;
+}
+
+.under_form a {
+    font-weight: bold;
 }
 
 .under_form p {
